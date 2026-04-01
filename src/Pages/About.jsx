@@ -3,7 +3,7 @@ import TopBanner from '../Components/TopBanner'
 import aboutBanner from '../assets/TopBanner.jpg'
 import trip from '../assets/trip.gif'
 import time from '../assets/fire-time.gif'
-import price from '../assets/price.gif'
+import price from "../assets/price.gif"
 
 const About = () => {
   return (
