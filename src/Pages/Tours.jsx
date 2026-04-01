@@ -1,22 +1,22 @@
 import React from "react";
 import TopBanner from "../Components/TopBanner";
 import BannerTour from "../assets/BannerTour.jpg";
-import Bali from "../assets/Bali.jpg";
+import Bali from "../assets/bali.jpg";
 import Venice from "../assets/venice.jpg";
 import Rome from "../assets/rome.jpg";
 import Tokyo from "../assets/tokyo.jpg";
 import Paris from "../assets/paris.jpg";
 import Odisha from "../assets/odisha.jpg";
 import Goa from "../assets/goa.jpg";
-import Karnataka from "../assets/Karnataka.jpg";
+import Karnataka from "../assets/karnataka.jpg";
 import Maldives from "../assets/maldives.jpg";
-import Switzerland from "../assets/Switzerland.jpg";
-import NewYork from "../assets/NewYork.jpg";
+import Switzerland from "../assets/switzerland.jpg";
+import NewYork from "../assets/newyork.jpg";
 import Chicago from "../assets/chicago.jpg";
 import Dubai from "../assets/dubai.jpg";
 import Sydney from "../assets/sydney.jpg";
-import Jammukashmir from "../assets/Jammukashmir.jpg"
-import Nepal from "../assets/Nepal.jpg"
+import Jammukashmir from "../assets/jammukashmir.jpg"
+import Nepal from "../assets/nepal.jpg"
 import { Clock, Star } from "lucide-react";
 
 const Tours = () => {
